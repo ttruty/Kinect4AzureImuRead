@@ -1,0 +1,3 @@
+﻿  KinectIMURead.cpp
+C:\Users\Tim\source\repos\KinectIMURead\KinectIMURead\KinectIMURead.cpp(119,4): error C2664:  'int fprintf(FILE *const ,const char *const ,...)': cannot convert argument 1 from 'const char [80]' to 'FILE *const '
+C:\Users\Tim\source\repos\KinectIMURead\KinectIMURead\KinectIMURead.cpp(119,12): message :  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
